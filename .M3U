@@ -13,15 +13,15 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9536
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9537
 #EXTINF:-1 tvg-id="ESPN.5" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9539
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9546
 #EXTINF:-1 tvg-id=" Espn(MEX)" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9544
-#EXTINF:-1 tvg-id="Espn Premium ARG HD" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9550
+#EXTINF:-1 tvg-id="Espn Premium " tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" 
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9549
 #EXTINF:-1 tvg-id="Fox Sports 1 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9579
-#EXTINF:-1 tvg-id="Fox Sports 2 MX(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png"
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9586
+#EXTINF:-1 tvg-id="Fox Sports 2 " tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png"
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9583
 #EXTINF:-1 tvg-id="Fox Sports Premium MX " tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9593
 #EXTINF:-1 tvg-id="Fox Sports 3 MEX" tvg-logo="https://multipress.com.mx/wp-content/uploads/2015/03/MULTI-FOX-NASCAR.jpg"
@@ -226,10 +226,9 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87614
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8184
 #EXTINF:-1 tvg-id="" tvg-name=" Neox " tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8223
-
-dos
-
-
+#EXTINF:-1 tvg-id="MILENIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/496px-Milenio_Television.png"
+http://bply.club:8080/5744g/fzrpj/2138.ts
 
 
+sd					
 
