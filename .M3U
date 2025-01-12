@@ -2,14 +2,12 @@
 
 #EXTINF:-1 tvg-id="ESPN CHILE" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/99538
-#EXTINF:-1 tvg-id="ESPN Argentina" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9522
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9523
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2 MEX (TV)(1080)" tvg-logo="https://i.imgur.com/sDD0Q2O.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9531
 #EXTINF:-1 tvg-id="ESPN.3" tvg-name="Espn 3 MEX " tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9536
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9532
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/FF6fT894/Espn4.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9537
 #EXTINF:-1 tvg-id="ESPN.5" tvg-logo="https://i.postimg.cc/CKNknVHr/Proyecto-X-21.png" 
@@ -65,7 +63,7 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9645
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9813
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9816
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9644
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-bM2_Q39fvdM/XaukeQIiYhI/AAAAAAAAAf4/yvKvVd55HEM8phsmoOuHyu0LMdHgTR9bgCLcBGAsYHQ/s200/16.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9823
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DOC-Discovery Turbo (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png"
@@ -106,10 +104,8 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9694
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9696
 #EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme (Z)(720)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9701
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood (T)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/HWD_logo.svg" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8190
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (Z)(720)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9861
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9858
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9867
 #EXTINF:-1 tvg-id="" tvg-name="Nick (Z)(720)" tvg-logo="https://cdn6.aptoide.com/imgs/c/8/5/c85cfb9e41175a27e904247af5ec77db_icon.png" 
@@ -122,20 +118,12 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87585
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87569
 #EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87574
-#EXTINF:-1 tvg-id="" tvg-name="BitMe (M)(720)" tvg-logo="https://i.postimg.cc/bNyrXTgr/bitme.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87592
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87598
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas (L)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87579
-#EXTINF:-1 tvg-id="" tvg-name="Televisa Monterrey (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87605
 #EXTINF:-1 tvg-id="" tvg-name="Tlnovelas (M)(720)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87591
-#EXTINF:-1 tvg-id="" tvg-name="TUDN (M)(720)" tvg-logo="https://pbs.twimg.com/profile_images/1790490069859495936/L535GVHT_400x400.jpg" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87590
-#EXTINF:-1 tvg-id="" tvg-name="ESP Movistar Estrenos (T)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1280px-Movistar_Estrenos.svg.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8211
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8406
 #EXTINF:-1 tvg-id="" tvg-name="MTV (M)(1080)" tvg-logo="https://e7.pngegg.com/pngimages/483/443/png-clipart-mtv-television-logo-music-game-logo-text-music-video.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8310
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live (M)(SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" 
@@ -156,16 +144,12 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/67004
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/67007
 #EXTINF:-1 tvg-id="" tvg-name="Unicable (T)(720)" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/67006
-#EXTINF:-1 tvg-id="" tvg-name="Universo (T)(720)" tvg-logo="https://1.bp.blogspot.com/-I5coVQh61s8/XzNOnK_MruI/AAAAAAAAAtg/FXnVyaZkKrso3K6ppfYzk9omGs-ttSgXQCLcBGAsYHQ/w200-h200/53%2BUniverso%2Btv.png"
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/67008
 #EXTINF:-1 tvg-id="" tvg-name="Univision Los Angeles (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8337
 #EXTINF:-1 tvg-id="" tvg-name=" Paramount (720) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU0Jlpo6Q-pz4sRAKzNcgMkA_A75_A6yPVSA&usqp=CAU" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9708
 #EXTINF:-1 tvg-id="" tvg-name="Sony Channel (1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9711
-#EXTINF:-1 tvg-id="Space.co" tvg-name="Space (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" 
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9718
 #EXTINF:-1 tvg-id="" tvg-name="Space (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9717
 #EXTINF:-1 tvg-id="STAR.CHANNEL.co" tvg-name=" STAR Channel (720)" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png" 
@@ -197,7 +181,7 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9843
 #EXTINF:-1 tvg-id="" tvg-name="H2 (720)" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9835
 #EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/bandamax.png"
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8308
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8307
 #EXTINF:-1 tvg-id="" tvg-name="MTV " tvg-logo="https://w7.pngwing.com/pngs/89/83/png-transparent-viacom-media-networks-logo-tv-television-mtv-mtv-logo-television-text-logo.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8310
 #EXTINF:-1 tvg-id="" tvg-name="UNIMáS " tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png" 
@@ -230,5 +214,5 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8223
 http://bply.club:8080/5744g/fzrpj/2138.ts
 
 
-sd					
+domingo		
 
