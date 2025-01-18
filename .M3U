@@ -48,7 +48,9 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9623
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/8393
 #EXTINF:-1 tvg-id="" tvg-name=" Cinecanal (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9628
-#EXTINF:-1 tvg-id="Cinemax mx" tvg-name="Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" 
+#EXTINF:-1 tvg-id="Cinemax mx" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" 
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9635
+#EXTINF:-1 tvg-id=tvg-name="Cinemax " tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9633
 #EXTINF:-1 tvg-id="" tvg-name=" Comedy Central (1080)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9636
@@ -64,7 +66,7 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9645
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9813
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9814
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Distrito Comedia (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Distrito Comedia (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Distrito Comedia (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9644
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-bM2_Q39fvdM/XaukeQIiYhI/AAAAAAAAAf4/yvKvVd55HEM8phsmoOuHyu0LMdHgTR9bgCLcBGAsYHQ/s200/16.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9823
@@ -172,11 +174,10 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9761
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9767
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel (1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9774
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet 1080)" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" )
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9812
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet 1080)" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png"
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health(1080)" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9821
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater (1080)" tvg-logo="https://logos.xbots.com.mx/41078.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Theater (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater (1080)" tvg-logo="https://logos.xbots.com.mx/41078.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9787
 #EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery(1080)" tvg-logo="https://1.bp.blogspot.com/-1wsiKCXFQwQ/XaukeKJb7pI/AAAAAAAAAf0/yIW1q0Xu334yYzGXEJSoR5g8RObOTjGHwCLcBGAsYHQ/s200/15.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9843
@@ -303,7 +304,7 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9923
 #EXTINF:-1 tvg-id="" tvg-name="MEX_MilenioTV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png"
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87599
 
-   MEGA ENERO..
+   MEGA ENERO  22
 
 
 
