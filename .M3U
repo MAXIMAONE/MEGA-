@@ -261,10 +261,12 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9904
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9550
 #EXTINF:-1 tvg-id=" tvg-name="TNT Sports Premium (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png"
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9923
-#EXTINF:-1 tvg-id="" tvg-name="MEX_MilenioTV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png"
+#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png"
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87599
-#EXTINF:-1 tvg-id="TUDN" tvg-logo="https://imgur.com/FbT8oqo"
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/87590
+#EXTINF:-1 tvg-id="" tvg-name="TUDN USA " tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" 
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9605
+#EXTINF:-1 tvg-id="" tvg-name="TUDN - MEX " tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" 
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9604
 #EXTINF:-1 tvg-id=""CINE - STARZ Encore" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9729
 #EXTINF:-1 tvg-id="" tvg-name="CINE - TCM " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" 
@@ -276,4 +278,4 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9786
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild " tvg-logo="https://static.epg.best/mx/NatGeo.mx.png" 
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/9807
 
-MEGA 29 ABRIL 
+MAYO 03 ..
